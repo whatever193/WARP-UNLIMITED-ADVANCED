@@ -7,10 +7,10 @@ INTERACTIVE_MODE = False  # or True
 # Required if ENV == False
 Vars = [
   # WARP_ID
-  "",
+  "c954528b-8f5c-4810-91ca-3f2754cd67c6",
   # SEND_LOG, Want to receive log on Telegram?
   # 1 = Yes or 0 = No
-  "",
+  "0",
   # CHAT_ID, required if SEND_LOG is 1
   # Can be Channel/Group username or ID
   "",
@@ -19,7 +19,7 @@ Vars = [
   "",
   # HIDE_ID, Do you want to hide WARP_ID from log msg?
   # 1 = Yes or 0 = No
-  "",
+  "0",
   # DON'T EDIT THIS
   INTERACTIVE_MODE
 ]
